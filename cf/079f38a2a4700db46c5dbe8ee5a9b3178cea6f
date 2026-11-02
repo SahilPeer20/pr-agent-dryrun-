@@ -1,0 +1,14 @@
+src/cart.js
+  h_6121319a470d2f 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf079f38a2a4700db46c5dbe8ee5a9b3178cea6f",
+  "prompts": {},
+  "humans": {
+    "h_6121319a470d2f": {
+      "author": "Sahil Singh <Sahil.Singh@peerislands.io>"
+    }
+  }
+}
